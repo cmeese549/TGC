@@ -1,0 +1,8 @@
+{
+        "playerName" : "Bad Gamer",
+        "health" : 50,
+        "shields" : 0,
+        "energy" : 3,
+        "money" : 0,
+        "profession" : "None"
+}

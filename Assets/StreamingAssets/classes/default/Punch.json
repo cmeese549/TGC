@@ -1,0 +1,10 @@
+{
+    "cardName" : "Punch",
+    "energyCost" : 1,
+    "type" : "Attack",
+    "target" : "Enemies",
+    "damage" : 10,
+    "description" : "Deal 10 damage",
+    "art": "punch",
+    "face": 5
+}

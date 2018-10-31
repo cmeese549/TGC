@@ -1,0 +1,12 @@
+{
+    "cardName" : "Guard",
+    "energyCost" : 1,
+    "type" : "Ability",
+    "target" : "Self",
+    "damage" : 0,
+    "gainShield" : 5,
+    "description" : "Gain 5 shields",
+    "art": "guard",
+    "face": 1
+
+}

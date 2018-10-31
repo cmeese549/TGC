@@ -1,0 +1,18 @@
+{
+    "cardName" : "Left Handed Chop",
+    "energyCost" : 1,
+    "type" : "Attack",
+    "isStarter" : true,
+    "isSpecial" : true,
+    "isClassCard" : true,
+    "target" : "Enemy",
+    "damage" : 15,
+    "description" : "15 damage. If Right Handed Chop is in your discard pile you may place it into your hand.",
+    "art": "leftHandedChop",
+    "face": 3,
+    "starterData" :
+    {
+        "cardName" : "Left Handed Chop",
+        "count" : 1
+    }
+}

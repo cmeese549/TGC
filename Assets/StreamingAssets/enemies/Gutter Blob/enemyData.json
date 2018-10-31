@@ -1,0 +1,8 @@
+{ 
+        "enemyName" : "Gutter Blob",
+        "health" : 60,
+        "shields" : 0,
+        "art" : "glutterBlob",
+        "backRowBonusText" : "+10 to First Attack",
+        "firstAttackDamageBonus" : 10
+}
